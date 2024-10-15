@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Mohamed-Husien/Mohamed-husien/blob/main/Landing%20Page.png?raw=true" alt="Masterhead" style="border-radius: 8px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); width: 100%; height: auto;" />
 </p>
-
+<h1 align="center">Hi 👋,</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-husien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-husien" /> </p>
 <h3 align="center">I'm Mohamed! Welcome to my GitHub profile, where I'm constantly tinkering with code and building cool stuff!<br>
  🔭 I'm passionate about Mobile App Development while diving deep into Dart and Flutter for cross-platform mobile development.<br>
