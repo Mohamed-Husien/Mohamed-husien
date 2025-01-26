@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://github.com/Mohamed-Husien/Mohamed-husien/blob/main/Landing%20Page.png?raw=true" alt="Masterhead" style="border-radius: 8px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); width: 100%; height: auto;" />
 </p>
 <h1 align="center">Hi 👋,</h1>
@@ -8,6 +8,8 @@
  🌱I am interested in advanced object-oriented programming concepts and applying SOLID principles to my projects. <br>
 👯 I’m looking to collaborate on open-source projects related to Flutter apps.<br>
  ⚡ Fun fact: When I'm not coding, you can find me exploring new cafes in search of the perfect cup of coffee!</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-husien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-husien" /> </p>
 
@@ -33,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-husien&show_icons=true&locale=en" alt="mohamed-husien" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Husien&" alt="mohamed-husien" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-husien&" alt="Mohamed-husien" /></p>
