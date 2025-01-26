@@ -9,8 +9,6 @@
 👯 I’m looking to collaborate on open-source projects related to Flutter apps.<br>
  ⚡ Fun fact: When I'm not coding, you can find me exploring new cafes in search of the perfect cup of coffee!</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-husien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-husien" /> </p>
 
 - 🔭 I’m currently working on [DEPI Internship ]([https://github.com/MahmoudSherif28/musclemate](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A101030668&keywords=digital%20egypt%20pioneers%20initiative%20-%20depi&origin=RICH_QUERY_SUGGESTION&position=0&searchId=7f537959-f648-4f52-a19d-3e8e65195e34&sid=Ug_&spellCorrectionEnabled=false))
@@ -35,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-husien&show_icons=true&locale=en" alt="mohamed-husien" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-husien&" alt="mohamed-husien" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Husien&" alt="mohamed-husien" /></p>
