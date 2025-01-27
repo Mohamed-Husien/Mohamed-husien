@@ -2,7 +2,7 @@
   <img src="https://github.com/Mohamed-Husien/Mohamed-husien/blob/main/Landing%20Page.png?raw=true" alt="Masterhead" style="border-radius: 8px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); width: 100%; height: auto;" />
 </p>
 <h1 align="center">Hi 👋,</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-husien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-husien" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Husien&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Husien" /> </p>
 <h3 align="center">I'm Mohamed! Welcome to my GitHub profile, where I'm constantly tinkering with code and building cool stuff!<br>
  🔭 I'm passionate about Mobile App Development while diving deep into Dart and Flutter for cross-platform mobile development.<br>
  🌱I am interested in advanced object-oriented programming concepts and applying SOLID principles to my projects. <br>
@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-husien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-husien" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-husien&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Husien" /> </p>
 
 - 🔭 I’m currently working on [DEPI Internship ]([https://github.com/MahmoudSherif28/musclemate](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A101030668&keywords=digital%20egypt%20pioneers%20initiative%20-%20depi&origin=RICH_QUERY_SUGGESTION&position=0&searchId=7f537959-f648-4f52-a19d-3e8e65195e34&sid=Ug_&spellCorrectionEnabled=false))
 
